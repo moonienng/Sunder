@@ -1,15 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
-*
+body
 {
     font-family: Jost;
 }
-nav .nav-main
-{
-    background-color: #f0c400 !important; 
-    
+nav a{
+    color: #000;
 }
-nav .nav-main a
+nav a:hover
 {
-    text-decoration: none;
-    color: #000 !important;
+    color: #fff;
+}
+.nav-main
+{
+    background-color: #f0c400;
+}
+.nav-r .btn
+{
+    background-color: #000;
+    color: #fff;
+}
+.nav-r .btn:hover
+{
+    background-color: #fff;
+    color: #000;
+    border-color: #000;
 }
