@@ -3,9 +3,13 @@
 {
     font-family: Jost;
 }
-.nav-main
+nav .nav-main
 {
-    background-color: #f0c400;
-    color: #000;
+    background-color: #f0c400 !important; 
+    
+}
+nav .nav-main a
+{
     text-decoration: none;
+    color: #000 !important;
 }
