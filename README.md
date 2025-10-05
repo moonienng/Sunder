@@ -1,7 +1,7 @@
 # ☀ Sunder
 
 ## Descrição
-O seguinte repositório hospeda a landing page do sistema 'Sunder', um sistema web de gerenciamento para Microempreendedores da área de estética. 
+O seguinte repositório hospeda a landing page do sistema 'Sunder' (antigo 'Caupe'), um sistema web de gerenciamento para Microempreendedores da área de estética. 
 
 ## 🛠 Tecnologias Utilizadas
 - **Frontend:** HTML5, CSS3, Jquery, Bootstrasp
